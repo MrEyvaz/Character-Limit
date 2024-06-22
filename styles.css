@@ -1,0 +1,38 @@
+body {
+    background-color: #A4508B;
+  background-image: linear-gradient(326deg, #A4508B 0%, #5F0A87 74%);
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  align-items: center;
+}
+
+.background-text {
+    background-color: white;
+    height: 106px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    padding: 14px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.characters {
+    position: absolute;
+    right: 429px;
+    bottom: 260px;
+    display: flex;
+    align-items: center;
+}
+
+.text_input{
+    width: 100%;
+    height: 65px;
+    resize: none;
+}
