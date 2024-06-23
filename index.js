@@ -7,9 +7,6 @@ const limit_num = document.querySelector('.limit_num')
 
 let b = +limit_num.textContent-1
 
-console.log(b);
-
-
 textarea.addEventListener('input', function () {
     let wordlength = textarea.value.length
 
