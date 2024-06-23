@@ -26,4 +26,3 @@ textarea.addEventListener('input', function () {
 
 })
 
-//ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
